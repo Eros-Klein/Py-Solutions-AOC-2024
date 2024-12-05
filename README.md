@@ -21,3 +21,6 @@
 - 4.12.2024:
   - _[First Star](./day4/level1.py)_
   - _[Second Star](./day4/level2.py)_
+- 5.12.2024:
+  - _[First Star](./day5/level1.py)_
+  - _[Second Star](./day5/level2.py)_
